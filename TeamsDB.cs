@@ -14,7 +14,7 @@ namespace ConsoleApp2
 
         public TeamsContext()
         {
-
+             
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
